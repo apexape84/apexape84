@@ -14,7 +14,8 @@
 
 
 
-2024.8-2025.3 Hi Medea Academy Java full stack
+2024.8-2025.3 Hi Medea Academy Java full stack  
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
