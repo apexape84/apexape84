@@ -4,8 +4,23 @@
 ### 이승현 입니다
 
 2003.3-2016.2 KAU Computer Engineering  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> 
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/>
+
+
+
+
+
+
 
 2024.8-2025.3 Hi Medea Academy Java full stack
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apexape84&show_icons=true&theme=radical)
 
