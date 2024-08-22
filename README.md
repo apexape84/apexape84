@@ -28,8 +28,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apexape84&show_icons=true&theme=shadow_red
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apexape84&show_icons=true&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apexape84&layout=compact)
 
 🐽
 <!--
