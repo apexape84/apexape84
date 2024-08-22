@@ -7,6 +7,8 @@
 
 2024.8-2025.3 Hi Medea Academy Java full stack
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apexape84&show_icons=true&theme=radical)
+
 🐽
 <!--
 **apexape84/apexape84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
